@@ -133,4 +133,3 @@ create or replace trigger INSERTAR_FECHA
 end;
 /
 
-alter SESSION set nls_date_format='DD/MM/YYYY HH24:MI:SS';
